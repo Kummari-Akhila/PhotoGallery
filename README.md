@@ -125,10 +125,4 @@ npm run build
 
 [View Infinite Scroll Photo Gallery](https://exactspace-photogallery.netlify.app/)
 
-## 🎯 Project Objective
-
-To demonstrate practical frontend development skills through React component architecture, REST API integration, state management, infinite scrolling, interactive UI components, responsive design, and browser storage.
-
----
-
-**Developed as part of the ExactSpace Technologies Frontend/UI Developer Internship Assignment.**
+Demo Video : https://drive.google.com/file/d/1rOlaHVeFEXbBArNzuKXklafR0g_LjFDd/view?usp=sharing
